@@ -1,0 +1,54 @@
+Version 1.31 (Jan 08.2011):
+- Fix changed newspapers download link
+- reorginize newspapers list: french then arabic
+- Fix the deformation in the menu Option->Preferences
+
+Version 1.3 (Jul 12.2010):
+- Fix UAC crap under Windows 7 & Vista
+- Fix small memory leak
+- Automatically check the availability of newspapers
+- Added preferences menu
+- Added French language
+- You can now change the directory of the downloaded newspapers
+- Show or hide newspapers from the list
+- Auto update the application
+- Now the application works with a list it contains the information required to download and manage newspapers
+- Auto update newspapers list
+
+Version 1.2 (May 25.2010):
+- Fix "Info Soir" & "Horizons" bugs
+- Fix the links adresse
+- Added icon
+- NSIS installer
+
+Version 1.1 (May 08.2010):
+- Fix some bugs
+- Added support with no archive for :
+   * El Fadjr http://www.al-fadjr.com/
+   * Le Jour D'Algrie http://www.lejourdalgerie.com/
+   * Le Maghreb http://www.lemaghrebdz.com/
+   * Horizons http://www.horizons-dz.com/
+   * Info Soir http://www.infosoir.com/
+   * Libert http://www.liberte-algerie.com/
+   * Echorouk http://www.echoroukonline.com/
+   * El Moudjahid http://www.elmoudjahid.com
+- Linked some unsupported newspapers :
+   * Akher Saa http://www.akhersaa-dz.com/
+   * Competetion http://www.competition.dz/
+   * El Heddaf http://www.elheddaf.com/
+   * Le Buteur http://www.lebuteur.com/
+   * Planete Sport http://www.planetesport-dz.com/
+   * Maracana http://www.maracanafoot.com/
+
+Version 1.0 (Dec 31.2009):
+- First release :)
+- Full support of:
+   * El Watan http://www.elwatan.com/
+   * Le Soir D'Algerie http://www.lesoirdalgerie.com/
+   * Le Quotidien D'Oran http://www.lequotidien-oran.com/
+   * Echo D'Oran http://www.echo-doran.com/
+   * La Voix De L'Oranie http://www.voix-oranie.com/
+   * Ech Chaab http://www.ech-chaab.com/
+   * El Massa http://www.el-massa.com/
+   * Ennahar http://www.ennaharonline.com/
+   * El Khabar http://www.elkhabar.com/
